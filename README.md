@@ -25,8 +25,8 @@
 ```
 git clone https://github.com/QiangZiBro/DS2019_NBU
 ```
-- 将项目文件夹复制到您的电脑一个位置 
-- 打开您的编辑器（如pycharm)进行自己的学习和开发 
+- 将项目文件夹(比如`calc`)复制到您的电脑一个位置 
+- 用您的编辑器（如pycharm)打开这个项目(比如`calc`)进行自己的学习和开发 
 - 将作业代码发到助教邮箱
 - 有新的实验项目，从远程更新
 
@@ -36,6 +36,8 @@ git pull origin master
 
 ### Tips:
 
-:star: 命令行工具：windows用户命令行工具建议使用cmder，mac用户命令行工具建议使用iTerm2
+:star:命令行工具：windows用户命令行工具建议使用cmder，mac用户命令行工具建议使用iTerm2
 
-:star: Markdown文本阅览和编写工具：建议使用Typora
+:star:Markdown文本阅览和编写工具：建议使用Typora
+
+:question:遇到问题怎么办？ qq群提问 or 课程网站提问 or 提Issue
