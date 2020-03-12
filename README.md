@@ -11,8 +11,10 @@
 
 | 项目名称     | 项目位置                                                     | 参考代码                                                     | 参考文档                   |
 | ------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | -------------------------- |
-| 第一个计算器 | [calc](https://github.com/QiangZiBro/DS2019_NBU/tree/master/calc) | [link](https://github.com/QiangZiBro/DS2019_NBU/blob/master/calc/main.py) | [refer/task1](refer/task1) |
-|              |                                                              |                                                              | [refer/task2](refer/task2) |
+| 链表     | [linklist](./task1-linklist) | [link](task1-linklist/main.py) | [refer/task1](refer/task1-linklist) |
+| 计算器 | [calc](./task2-calc/) | [link](./task2-calc/main.py) | [refer/task2](./refer/task2-calc/) |
+|  |  | | |
+| | | | |
 
 
 
