@@ -43,3 +43,17 @@ git pull origin master
 :star:Markdown文本阅览和编写工具：建议使用Typora
 
 :question:遇到问题怎么办？ qq群提问 or 课程网站提问 or 提Issue
+
+
+
+## 参考
+
+1 pyqt5 系列教程 https://zhuanlan.zhihu.com/p/75673557
+
+2 pyqt5 博客教程 http://www.tastones.com/tutorial/pyqt5/
+
+3 州的先生pyqt5 教程https://zmister.com/archives/category/guidevelop/pyqt5_basic/
+
+4 知乎PyQt5图形界面编程（目录） https://zhuanlan.zhihu.com/p/48373518  推荐:star2:
+
+5 B站教学视频 https://b23.tv/av91432155/p51 推荐:star2:
