@@ -113,3 +113,7 @@ def generate_maze(width=21, height=21):
     entrance, exit = set_entrance_exit(maze)
     # 返回地图
     return maze.maze, entrance, exit
+
+
+if __name__ == "__main__":
+    maze, entrance, exit = generate_maze()
